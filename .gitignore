@@ -1,0 +1,16 @@
+*.xcframework/
+
+# Never commit the real API key — Secrets.swift.example is the committed template.
+CameraAccess/Identification/Secrets.swift
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
